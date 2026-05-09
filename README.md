@@ -84,12 +84,6 @@ Right-click on Index.html → "Open with Live Server"
 
 ---
 
-## 📸 Preview
-
-> *(Add a screenshot or screen recording of the app here for better visibility on GitHub)*
-
----
-
 ## 🔗 API Used
 
 This app integrates with an **external recipe API** to fetch real-time meal data. The API returns recipe names, images, ingredients, and step-by-step cooking instructions based on the user's search query.
